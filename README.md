@@ -1,3 +1,3 @@
 # Rakhi
-This is My First Github Repo
-Author - Rakesh
+This is My First Github Repository.
+<br>Author - Rakesh
